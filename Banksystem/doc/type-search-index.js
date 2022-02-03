@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"AskKonto"},{"p":"<Unnamed>","l":"Auszahlen"},{"p":"<Unnamed>","l":"Einzahlen"},{"p":"<Unnamed>","l":"Kontostand"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Überweisen"}]

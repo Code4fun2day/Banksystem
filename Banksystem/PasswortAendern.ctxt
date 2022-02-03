@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PasswortAendern
+comment1.params=
+comment1.target=PasswortAendern()
+comment2.params=a
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=a
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ reader()
+comment5.params=
+comment5.target=void\ neuesPasswort()
+numComments=6

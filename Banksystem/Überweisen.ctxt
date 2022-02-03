@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=\u00DCberweisen
+comment0.text=\r\n\ @author\ Paul\ Szelag\r\n\ @version\ 2.0.0\r\n
+comment1.params=
+comment1.target=\u00DCberweisen()
+comment2.params=a
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=a
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ reader()
+comment5.params=
+comment5.target=void\ readerKonto()
+comment6.params=
+comment6.target=void\ kontostaendeAendern()
+comment7.params=
+comment7.target=void\ writer()
+numComments=8
